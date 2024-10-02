@@ -6,7 +6,7 @@ import pdfplumber
 # Function to read PDF file
 def read_pdf_with_pdfplumber(file_path):
     text = ''
-    with pdfplumber.open(file_path, 'rb') as pdf:
+    with pdfplumber.open(file_path) as pdf:
         for page in pdf.pages:
             text += page.extract_text()
     return text
@@ -26,7 +26,7 @@ def chunk_text(text, chunk_size=500):
     return chunks
 
 # Path to your PDF file
-file_path = 'placement policy.pdf'
+file_path = 'UNIT -6.pdf'
 
 # Read and process the PDF
 pdf_text = read_pdf_with_pdfplumber(file_path)
