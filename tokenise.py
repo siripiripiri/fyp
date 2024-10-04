@@ -31,6 +31,7 @@ file_path = 'UNIT -6.pdf'
 # Read and process the PDF
 pdf_text = read_pdf_with_pdfplumber(file_path)
 text_chunks = chunk_text(pdf_text, chunk_size=400)
+print(text_chunks[0])
 
 # Decode and print the chunks
 # for idx, chunk in enumerate(text_chunks):
