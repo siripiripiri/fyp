@@ -1,7 +1,7 @@
 from lmqg import TransformersQG
 from pypdf import PdfReader
 
-reader = PdfReader('UNIT -6.pdf')
+reader = PdfReader('Study-Documents/UNIT -6.pdf')
 
 print(len(reader.pages))
 
