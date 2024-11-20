@@ -1,5 +1,4 @@
 import gradio as gr
-import PyPDF2
 import tiktoken
 from lmqg import TransformersQG
 import pdfplumber
