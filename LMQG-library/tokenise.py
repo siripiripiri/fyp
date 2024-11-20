@@ -5,7 +5,7 @@ import pdfplumber
 # Function to read PDF file
 def read_pdf_with_pdfplumber(file_path):
     text = ''
-    with pdfplumber.open(file_path) as pdf:
+    with pdfplumber.open(file_path, 'rb') as pdf:
         for page in pdf.pages:
             text += page.extract_text()
     return text
@@ -30,7 +30,7 @@ file_path = 'Study-Documents/UNIT -6.pdf'
 # Read and process the PDF
 pdf_text = read_pdf_with_pdfplumber(file_path)
 text_chunks = chunk_text(pdf_text, chunk_size=400)
-print(text_chunks)
+print(text_chunks[0])
 
 # Decode and print the chunks
 for idx, chunk in enumerate(text_chunks):
