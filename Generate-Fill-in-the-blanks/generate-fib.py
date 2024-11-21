@@ -144,8 +144,8 @@ if __name__ == "__main__":
     generator = QuestionGenerator()
     
     # Generate questions from a PDF file
-    pdf_path = "Study-Documents/UNIT -6.pdf"
-    output_path = "Fill-in-the-blanks/questions-fib.json"
+    pdf_path = "Study-Documents/Notice-Marathi.pdf"
+    output_path = "Generate-Fill-in-the-blanks/questions-fib.json"
     
     questions = generator.generate_questions(pdf_path)
     generator.save_questions(questions, output_path)
