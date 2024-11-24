@@ -1,0 +1,471 @@
+{
+  "questions": [
+    "What is the relationship between This and 9?",
+    "How does covered entities interact with patient care?",
+    "What is the relationship between They and ML systemstocontrolaccesstodataand \n modelsexposedthroughAPIs?",
+    "What is the relationship between they and this information?",
+    "What is the relationship between that \n and the way that \n informationismoved , whetherthat'spartlyorentirelythroughautomatedmeans?",
+    "How does that interact with the entity \u2019s size?",
+    "What is the relationship between Visitors and a button orsome \n otheraction?",
+    "How do the applications of that and that \n differ in practice?",
+    "What is the relationship between your machine learning model and these best practices?",
+    "What is the relationship between who and HIPAA Compliance?",
+    "What key factors differentiate they from They despite their similarities?",
+    "How does their personal data interact with more control over how their personal data is \n handledanddisseminatedbycompanies?",
+    "How does Users interact with data collection \n andhavetheoptiontooptout?",
+    "What is the relationship between their personal data and more control over how their personal data is \n handledanddisseminatedbycompanies?",
+    "How does ML systems interact with and influence other key concepts in this domain?",
+    "What is the relationship between auditing mechanisms and user \n activities and access attempts?",
+    "How does ML systems interact with datanecessarytoachievetheirobjectives?",
+    "How does Encryption and Digital Signatures : Encryption and digital signatures interact with ML systems?",
+    "What is the relationship between that and May 25 , 2018?",
+    "What is the relationship between This \n and names and social security \n numbers?",
+    "How does MFA interact with access toMLsystems?",
+    "How does users interact with ML systems?",
+    "How does ML systems interact with unauthorized access , data breaches , and \n malware attacks?",
+    "How does ML practitioners interact with vulnerable populations?",
+    "What makes that a central concept and how does it connect to related ideas?",
+    "How does auditing mechanisms interact with user \n activities and access attempts?",
+    "What is the relationship between who and the \n European Union(EU).Approvedin2016,theGDPRwentintofulleffecttwoyearslater?",
+    "What is the relationship between Numerous regulations and their practices \n?",
+    "What is the relationship between Access to data and least \n privilege?",
+    "How does Machine learning ( ML ) interact with its powercomes \n immense responsibility?",
+    "How does who interact with the \n European Union(EU).Approvedin2016,theGDPRwentintofulleffecttwoyearslater?",
+    "How does ML systems interact with relevant regulations and industry standards?",
+    "How does Only authorised personnel with a legitimate need interact with sensitivedata?",
+    "What is the relationship between ABAC and users , resources , and environmental conditions?",
+    "How does that \n interact with the way that \n informationismoved , whetherthat'spartlyorentirelythroughautomatedmeans?",
+    "What is the relationship between ML systems and relevant regulations and industry standards?",
+    "What is the relationship between MFA and access toMLsystems?",
+    "How does This interact with regulatoryrequirements?",
+    "What is the relationship between the Security Rule \n and protectingspecifichealthinformationthatis \n heldortransferredinelectronicform?",
+    "How does they interact with and influence other key concepts in this domain?",
+    "How does OAuth and OpenID Connect interact with multiple applications \n and services?",
+    "How does that interact with PHI?",
+    "How do the applications of they and They differ in practice?",
+    "How does MLOps teams interact with responsibleandalsocompliant \n developmentofMLapplications?",
+    "How does API keys interact with APIs and services?",
+    "What is the relationship between ML systems and data retention and deletion policies?",
+    "What is the relationship between that and the collection \n andprocessingofpersonalinformationfromindividuals?",
+    "What is the relationship between ML systems and datanecessarytoachievetheirobjectives?",
+    "What is the relationship between users and ML systems?",
+    "How does any of their personal data held by the site interact with \u25cf Thereisamandatedassessmentofthesite'sdatasecurity?",
+    "How does they interact with protected \n resources?",
+    "How does Transport Layer Security ( TLS ) and Secure Sockets Layer \n ( SSL ) protocols interact with 8?",
+    "How does Numerous regulations interact with their practices \n?",
+    "How does They interact with ML systemstocontrolaccesstodataand \n modelsexposedthroughAPIs?",
+    "What is the relationship between Tokens and securitycomparedtotraditionalsession - basedauthentication?",
+    "What is the relationship between Users and data collection \n andhavetheoptiontooptout?",
+    "What is the relationship between that and European visitors , \n eveniftheydon'tspecificallymarketgoodsorservicestoEUresidents?",
+    "How does ML systems interact with their data handling \n practices?",
+    "How does ADefinitionofHIPAACompliance \n The Health Insurance Portability and Accountability Act ( HIPAA ) interact with sensitive \n patientdataprotection?",
+    "How does that interact with European visitors , \n eveniftheydon'tspecificallymarketgoodsorservicestoEUresidents?",
+    "How does they interact with consumers?",
+    "What is the relationship between ADefinitionofHIPAACompliance \n The Health Insurance Portability and Accountability Act ( HIPAA ) and sensitive \n patientdataprotection?",
+    "What is the relationship between This and regulatoryrequirements?",
+    "How does Anonymization and Pseudonymization : Personally identifiable information ( PII ) interact with individual privacy?",
+    "What is the relationship between Machine learning ( ML ) and its powercomes \n immense responsibility?",
+    "What key factors differentiate ML \n systems from ML systems despite their similarities?",
+    "What is the relationship between covered entities and patient care?",
+    "How does who interact with HIPAA Compliance?",
+    "What is the relationship between Encryption and Digital Signatures : Encryption and digital signatures and ML systems?",
+    "How does ABAC interact with users , resources , and environmental conditions?",
+    "How does your machine learning model interact with these best practices?",
+    "How does that interact with and influence other key concepts in this domain?",
+    "How does Access to data interact with least \n privilege?",
+    "What is the relationship between HIPAA \n compliance and computerised physician order entry ( CPOE ) systems , \n electronic health records ( EHR ) , and radiology , pharmacy , and laboratory systems ,?",
+    "What key factors differentiate This \n from This despite their similarities?",
+    "What is the relationship between that and the entity \u2019s size?",
+    "How do the applications of This \n and This differ in practice?",
+    "What is the relationship between Other \n entities , such as subcontractors and any other related business associates and compliance?",
+    "What makes they a central concept and how does it connect to related ideas?",
+    "What is the relationship between which and encryption and access control \n features?",
+    "What is the relationship between they and consumer data?",
+    "What is the relationship between that and PHI?",
+    "What key factors differentiate HIPAA Compliance from HIPAA \n compliance despite their similarities?",
+    "What is the relationship between This and regularaudits , riskassessments , andongoingmonitoringofdatahandlingpractices?",
+    "How does that interact with contextualinformation?",
+    "How does Data interact with unauthorised access?",
+    "How does regulatory compliance and \n auditability within data governance practices interact with trustworthy AI solutions?",
+    "How does This interact with regularaudits , riskassessments , andongoingmonitoringofdatahandlingpractices?",
+    "What is the relationship between that and contextualinformation?",
+    "How does some common mechanisms used in ML \n systems : \n 1 interact with ML \n systems?",
+    "How does they interact with consumer data?",
+    "What is the relationship between Data and unauthorised access?",
+    "What is the relationship between ML practitioners and vulnerable populations?",
+    "What is the relationship between ML systems and unauthorized access , data breaches , and \n malware attacks?",
+    "How does Other \n entities , such as subcontractors and any other related business associates interact with compliance?",
+    "What is the relationship between Anonymization and Pseudonymization : Personally identifiable information ( PII ) and individual privacy?",
+    "What is the relationship between Transport Layer Security ( TLS ) and Secure Sockets Layer \n ( SSL ) protocols and 8?",
+    "What is the relationship between who and users and services?",
+    "How does This \n interact with names and social security \n numbers?",
+    "What is the relationship between some common mechanisms used in ML \n systems : \n 1 and ML \n systems?",
+    "How does who interact with users and services?",
+    "How do the applications of ML \n systems and ML systems differ in practice?",
+    "What is the relationship between Only authorised personnel with a legitimate need and sensitivedata?",
+    "How does These policies interact with ensurethatonlyauthorizeduserscanaccesssensitivedataandmodels?",
+    "How does Tokens interact with securitycomparedtotraditionalsession - basedauthentication?",
+    "How does that interact with the collection \n andprocessingofpersonalinformationfromindividuals?",
+    "How do the applications of HIPAA Compliance and HIPAA \n compliance differ in practice?",
+    "How does This interact with 9?",
+    "How does HIPAA \n compliance interact with computerised physician order entry ( CPOE ) systems , \n electronic health records ( EHR ) , and radiology , pharmacy , and laboratory systems ,?",
+    "What is the relationship between These policies and ensurethatonlyauthorizeduserscanaccesssensitivedataandmodels?",
+    "What is the relationship between regulatory compliance and \n auditability within data governance practices and trustworthy AI solutions?",
+    "How does the Security Rule \n interact with protectingspecifichealthinformationthatis \n heldortransferredinelectronicform?",
+    "How does they interact with this information?",
+    "What makes ML systems a central concept and how does it connect to related ideas?",
+    "How does they interact with the security risksfacing \n healthcaredata?",
+    "What is the relationship between they and protected \n resources?",
+    "What is the relationship between they and the security risksfacing \n healthcaredata?",
+    "What is the relationship between MLOps teams and responsibleandalsocompliant \n developmentofMLapplications?",
+    "What is the relationship between API keys and APIs and services?",
+    "What is the relationship between OAuth and OpenID Connect and multiple applications \n and services?",
+    "What is the relationship between any of their personal data held by the site and \u25cf Thereisamandatedassessmentofthesite'sdatasecurity?",
+    "What key factors differentiate that from that \n despite their similarities?",
+    "How does Visitors interact with a button orsome \n otheraction?",
+    "How does ML systems interact with data retention and deletion policies?",
+    "What is the relationship between ML systems and their data handling \n practices?",
+    "How does that interact with May 25 , 2018?",
+    "What is the relationship between they and consumers?",
+    "How does which interact with encryption and access control \n features?"
+  ],
+  "relationships": [
+    {
+      "subject": "ML systems",
+      "verb": "use",
+      "object": "datanecessarytoachievetheirobjectives",
+      "sentence": "Data Minimization: ML systems should only collect and use the minimum amount of\ndatanecessarytoachievetheirobjectives."
+    },
+    {
+      "subject": "Data",
+      "verb": "prevent",
+      "object": "unauthorised access",
+      "sentence": "2. Data Encryption: Data should be encrypted both in transit and at rest to prevent\nunauthorised access."
+    },
+    {
+      "subject": "Access to data",
+      "verb": "based",
+      "object": "least \n privilege",
+      "sentence": "Access to data should be restricted based on the principle of least\nprivilege."
+    },
+    {
+      "subject": "Only authorised personnel with a legitimate need",
+      "verb": "andaccessshouldbeloggedandmonitored",
+      "object": "sensitivedata",
+      "sentence": "Only authorised personnel with a legitimate need should have access to\nsensitivedata,andaccessshouldbeloggedandmonitored.\n"
+    },
+    {
+      "subject": "Anonymization and Pseudonymization : Personally identifiable information ( PII )",
+      "verb": "protect",
+      "object": "individual privacy",
+      "sentence": "Anonymization and Pseudonymization: Personally identifiable information (PII) should\nbe anonymized or pseudonymized wherever possible to protect individual privacy."
+    },
+    {
+      "subject": "This \n",
+      "verb": "obfuscating",
+      "object": "names and social security \n numbers",
+      "sentence": "This\ninvolves removing or obfuscating direct identifiers such as names and social security\nnumbers.\n"
+    },
+    {
+      "subject": "Users",
+      "verb": "informed",
+      "object": "data collection \n andhavetheoptiontooptout",
+      "sentence": "Users should be informed about the purpose of data collection\nandhavetheoptiontooptout.\n"
+    },
+    {
+      "subject": "ML systems",
+      "verb": "andused",
+      "object": "their data handling \n practices",
+      "sentence": "6. Data Transparency: ML systems should be transparent about their data handling\npractices,includinghowdataiscollected,processed,andused."
+    },
+    {
+      "subject": "ML systems",
+      "verb": "ensure",
+      "object": "relevant regulations and industry standards",
+      "sentence": "7. Data Governance: ML systems should have robust data governance policies in place to\nensure compliance with relevant regulations and industry standards."
+    },
+    {
+      "subject": "This",
+      "verb": "includes",
+      "object": "regularaudits , riskassessments , andongoingmonitoringofdatahandlingpractices",
+      "sentence": "This includes\nregularaudits,riskassessments,andongoingmonitoringofdatahandlingpractices.\n"
+    },
+    {
+      "subject": "ML systems",
+      "verb": "built",
+      "object": "unauthorized access , data breaches , and \n malware attacks",
+      "sentence": "Secure Infrastructure: ML systems should be built on secure infrastructure with strong\nsafeguards against cyber threats such as unauthorized access, data breaches, and\nmalware attacks."
+    },
+    {
+      "subject": "This",
+      "verb": "implementing",
+      "object": "9",
+      "sentence": "This may involve using secure cloud platforms, implementing firewall\nandintrusiondetectionsystems,andregularlyupdatingsecuritypatches.\n9."
+    },
+    {
+      "subject": "ML systems",
+      "verb": "including",
+      "object": "data retention and deletion policies",
+      "sentence": "Data Lifecycle Management: ML systems should implement secure data lifecycle\nmanagement practices, including data retention and deletion policies."
+    },
+    {
+      "subject": "ML practitioners",
+      "verb": "including",
+      "object": "vulnerable populations",
+      "sentence": "10.Ethical Considerations: ML practitioners should consider theethicalimplicationsoftheir\ndata handling practices, including potential biases in training data and the potential\nimpact on vulnerable populations."
+    },
+    {
+      "subject": "who",
+      "verb": "verifying",
+      "object": "users and services",
+      "sentence": "Access control and authentication mechanisms :play a crucial role in ensuring the security of\nmachine learning (ML) systems by managing who can access data, models, and resources, and\nverifying the identity of users and services."
+    },
+    {
+      "subject": "some common mechanisms used in ML \n systems : \n 1",
+      "verb": "used",
+      "object": "ML \n systems",
+      "sentence": "Here are some common mechanisms used in ML\nsystems:\n1."
+    },
+    {
+      "subject": "ABAC",
+      "verb": "associated",
+      "object": "users , resources , and environmental conditions",
+      "sentence": "Attribute-Based Access Control (ABAC): ABAC evaluates access permissions based on\nattributes associated with users, resources, and environmental conditions."
+    },
+    {
+      "subject": "that",
+      "verb": "based",
+      "object": "contextualinformation",
+      "sentence": "This allows\nfor more fine-grained access control policies that can be dynamically adapted based on\ncontextualinformation.\n"
+    },
+    {
+      "subject": "MFA",
+      "verb": "granting",
+      "object": "access toMLsystems",
+      "sentence": "Multi-Factor Authentication (MFA): MFA requires users to provide multiple forms of\nauthentication, such as passwords, biometrics, smart cards, orone-timecodes,toverify\ntheir identity before granting access toMLsystems."
+    },
+    {
+      "subject": "OAuth and OpenID Connect",
+      "verb": "delegated",
+      "object": "multiple applications \n and services",
+      "sentence": "OAuth and OpenID Connect: OAuth and OpenID Connect are authentication protocols\nused for delegated authorization and single sign-on (SSO) across multiple applications\nand services."
+    },
+    {
+      "subject": "API keys",
+      "verb": "authorize",
+      "object": "APIs and services",
+      "sentence": "5. API Keys: API keys are unique identifiers used to authenticate and authorize access to\nAPIs and services."
+    },
+    {
+      "subject": "They",
+      "verb": "used",
+      "object": "ML systemstocontrolaccesstodataand \n modelsexposedthroughAPIs",
+      "sentence": "They are commonly used in ML systemstocontrolaccesstodataand\nmodelsexposedthroughAPIs.\n"
+    },
+    {
+      "subject": "they",
+      "verb": "protected",
+      "object": "protected \n resources",
+      "sentence": "6. Token-Based Authentication: Token-based authentication involves issuing secure tokens\nto users upon successful authentication, which they can then use to access protected\nresources."
+    },
+    {
+      "subject": "Tokens",
+      "verb": "enhancing",
+      "object": "securitycomparedtotraditionalsession - basedauthentication",
+      "sentence": "Tokens expire after a certain period or when explicitly revoked, enhancing\nsecuritycomparedtotraditionalsession-basedauthentication.\n"
+    },
+    {
+      "subject": "Encryption and Digital Signatures : Encryption and digital signatures",
+      "verb": "verify",
+      "object": "ML systems",
+      "sentence": "Encryption and Digital Signatures: Encryption and digital signatures are used to secure\ndata in transit and verify the authenticity andintegrityofmessagesexchangedbetween\ncomponents of ML systems."
+    },
+    {
+      "subject": "Transport Layer Security ( TLS ) and Secure Sockets Layer \n ( SSL ) protocols",
+      "verb": "provide",
+      "object": "8",
+      "sentence": "Transport Layer Security (TLS) and Secure Sockets Layer\n(SSL) protocols provide encryption and authentication mechanisms for securing\ncommunicationchannels.\n8."
+    },
+    {
+      "subject": "auditing mechanisms",
+      "verb": "track",
+      "object": "user \n activities and access attempts",
+      "sentence": "Access logging and auditing mechanisms track user\nactivities and access attempts, providingvisibilityintowhoaccessedwhatresourcesand\nwhen."
+    },
+    {
+      "subject": "This",
+      "verb": "ensure",
+      "object": "regulatoryrequirements",
+      "sentence": "This helps detect and investigate security incidents and ensure compliance with\nregulatoryrequirements.\n"
+    },
+    {
+      "subject": "users",
+      "verb": "access",
+      "object": "ML systems",
+      "sentence": "Identity Federation: Identity federation allows users to use their existing credentials\nfrom trusted identity providers (IdPs) to access ML systems."
+    },
+    {
+      "subject": "These policies",
+      "verb": "enforced",
+      "object": "ensurethatonlyauthorizeduserscanaccesssensitivedataandmodels",
+      "sentence": "These policies are enforced by access control mechanisms to\nensurethatonlyauthorizeduserscanaccesssensitivedataandmodels."
+    },
+    {
+      "subject": "which",
+      "verb": "offer",
+      "object": "encryption and access control \n features",
+      "sentence": "Use tools such as AWS S3 or Azure Blob storage, which offer encryption and access control\nfeatures.\n"
+    },
+    {
+      "subject": "your machine learning model",
+      "verb": "ensure",
+      "object": "these best practices",
+      "sentence": "By following these best practices, you can help to ensure that your machine learning model is\ndeployedonthecloudsecurelyandwithreducedriskofsecuritybreaches.\n"
+    },
+    {
+      "subject": "Machine learning ( ML )",
+      "verb": "revolutionizing",
+      "object": "its powercomes \n immense responsibility",
+      "sentence": "Machine learning (ML) is revolutionizing various aspects of our lives, but with its powercomes\nimmense responsibility."
+    },
+    {
+      "subject": "regulatory compliance and \n auditability within data governance practices",
+      "verb": "building",
+      "object": "trustworthy AI solutions",
+      "sentence": "As MLOps professionals, ensuring regulatory compliance and\nauditability within data governance practices is crucial for building trustworthy AI solutions.\n"
+    },
+    {
+      "subject": "MLOps teams",
+      "verb": "fostering",
+      "object": "responsibleandalsocompliant \n developmentofMLapplications",
+      "sentence": "This chapter explores how data governance empowers MLOps teams to navigate regulatory\nlandscapes and establish robust auditing mechanisms, fostering responsibleandalsocompliant\ndevelopmentofMLapplications.\n"
+    },
+    {
+      "subject": "Numerous regulations",
+      "verb": "adapt",
+      "object": "their practices \n",
+      "sentence": "Numerous regulations govern data privacy, security, and ethical considerations in ML\ndevelopment, requiring MLOps teams to stay informed and also adapt their practices\naccordingly:\u25cf WhatistheGDPR?\nWhatIstheGeneralDataProtectionRegulation(GDPR)?\n"
+    },
+    {
+      "subject": "who",
+      "verb": "live",
+      "object": "the \n European Union(EU).Approvedin2016,theGDPRwentintofulleffecttwoyearslater",
+      "sentence": "The General Data Protection Regulation (GDPR) isalegalframeworkthatsetsguidelinesforthe\ncollection and processing of personal information from individuals who live and outside of the\nEuropean Union(EU).Approvedin2016,theGDPRwentintofulleffecttwoyearslater."
+    },
+    {
+      "subject": "they",
+      "verb": "treat",
+      "object": "this information",
+      "sentence": "Itsaimis\nto give consumers control over their own personal data by holding companies responsible for\nthe way they handle and treat this information."
+    },
+    {
+      "subject": "that",
+      "verb": "attract",
+      "object": "European visitors , \n eveniftheydon'tspecificallymarketgoodsorservicestoEUresidents",
+      "sentence": "The regulation applies regardless of where\nwebsites are based, which means it must be heeded by all sites that attract European visitors,\neveniftheydon'tspecificallymarketgoodsorservicestoEUresidents.\n"
+    },
+    {
+      "subject": "that",
+      "verb": "sets",
+      "object": "the collection \n andprocessingofpersonalinformationfromindividuals",
+      "sentence": "KEYTAKEAWAYS\n\u25cf The General Data Protection Regulation is a law that sets guidelines for the collection\nandprocessingofpersonalinformationfromindividuals.\n"
+    },
+    {
+      "subject": "their personal data",
+      "verb": "provides",
+      "object": "more control over how their personal data is \n handledanddisseminatedbycompanies",
+      "sentence": "The GDPR provides consumers with more control over how their personal data is\nhandledanddisseminatedbycompanies.\n"
+    },
+    {
+      "subject": "they",
+      "verb": "timeitisbreached",
+      "object": "consumer data",
+      "sentence": "\u25cf Companies must inform consumers about what they do with consumer data and every\ntimeitisbreached.\n"
+    },
+    {
+      "subject": "that",
+      "verb": "went",
+      "object": "May 25 , 2018",
+      "sentence": "The General Data Protection Regulation (or GDPR for short) is a law that was approved by the\nEuropean Union in April 2016 and went into effect on May 25, 2018."
+    },
+    {
+      "subject": "they",
+      "verb": "collect",
+      "object": "consumers",
+      "sentence": "It replacedanearlierlaw,\nthe Data Protection Directive, and was set up to regulate the way companies process and use\nthe personal data they collect from consumers online."
+    },
+    {
+      "subject": "that \n",
+      "verb": "informationismoved",
+      "object": "the way that \n informationismoved , whetherthat'spartlyorentirelythroughautomatedmeans",
+      "sentence": "It also has rules in the way that\ninformationismoved,whetherthat'spartlyorentirelythroughautomatedmeans.\n"
+    },
+    {
+      "subject": "Visitors",
+      "verb": "clicking",
+      "object": "a button orsome \n otheraction",
+      "sentence": "\u25cf Visitors explicitly consent to that information-gathering by clicking on a button orsome\notheraction.\n"
+    },
+    {
+      "subject": "any of their personal data held by the site",
+      "verb": "breached",
+      "object": "\u25cf Thereisamandatedassessmentofthesite'sdatasecurity",
+      "sentence": "\u25cf Sites notify visitors in a timely way if any of their personal data held by the site is ever\nbreached\n\u25cf Thereisamandatedassessmentofthesite'sdatasecurity.\n"
+    },
+    {
+      "subject": "ADefinitionofHIPAACompliance \n The Health Insurance Portability and Accountability Act ( HIPAA )",
+      "verb": "sets",
+      "object": "sensitive \n patientdataprotection",
+      "sentence": "\u25cf ADefinitionofHIPAACompliance\nThe Health Insurance Portability and Accountability Act (HIPAA) sets the standard for sensitive\npatientdataprotection."
+    },
+    {
+      "subject": "who",
+      "verb": "meet",
+      "object": "HIPAA Compliance",
+      "sentence": "Covered entities (anyone providing treatment, payment, and operations in\nhealthcare) and business associates (anyone who has access to patient information and\nprovides support in treatment, payment, or operations) must meet HIPAA Compliance."
+    },
+    {
+      "subject": "Other \n entities , such as subcontractors and any other related business associates",
+      "verb": "related",
+      "object": "compliance",
+      "sentence": "Other\nentities, such as subcontractors and any other related business associates must also be in\ncompliance.\n"
+    },
+    {
+      "subject": "the Security Rule \n",
+      "verb": "establishes",
+      "object": "protectingspecifichealthinformationthatis \n heldortransferredinelectronicform",
+      "sentence": "Additionally, the Security Rule\nestablishes a national set of security standards for protectingspecifichealthinformationthatis\nheldortransferredinelectronicform.\n"
+    },
+    {
+      "subject": "that",
+      "verb": "covered",
+      "object": "PHI",
+      "sentence": "The Security Rule operationalizes the Privacy Rule\u2019sprotectionsbyaddressingthetechnicaland\nnontechnical safeguards that covered entitiesmustputinplacetosecureindividuals\u2019electronic\nPHI (e-PHI)."
+    },
+    {
+      "subject": "HIPAA \n compliance",
+      "verb": "including",
+      "object": "computerised physician order entry ( CPOE ) systems , \n electronic health records ( EHR ) , and radiology , pharmacy , and laboratory systems ,",
+      "sentence": "TheNeedforHIPAACompliance\nHHS points out that as health care providers and other entities dealing with PHI move to\ncomputerised operations, including computerised physician order entry (CPOE) systems,\nelectronic health records (EHR), and radiology, pharmacy, and laboratory systems, HIPAA\ncompliance is more important than ever."
+    },
+    {
+      "subject": "they",
+      "verb": "increase",
+      "object": "the security risksfacing \n healthcaredata",
+      "sentence": "While all of these electronic methods\nprovide increased efficiency and mobility, they also drastically increase the security risksfacing\nhealthcaredata.\n"
+    },
+    {
+      "subject": "covered entities",
+      "verb": "improve",
+      "object": "patient care",
+      "sentence": "The Security Rule is in place to protect the privacy of individuals\u2019 health information, while at\nthe same time allowing covered entities to adopt new technologies to improve thequalityand\nefficiency of patient care."
+    },
+    {
+      "subject": "that",
+      "verb": "organisationalstructure",
+      "object": "the entity \u2019s size",
+      "sentence": "The Security Rule, by design, is flexible enough to allow a covered\nentity to implement policies, procedures, and technologies that are suited to the entity\u2019s size,\norganisationalstructure,andriskstopatients\u2019andconsumers\u2019e-PHI."
+    }
+  ],
+  "hierarchy": {},
+  "concept_graph": 
