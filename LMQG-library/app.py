@@ -2,6 +2,19 @@ import gradio as gr
 import tiktoken
 from lmqg import TransformersQG
 import pdfplumber
+import spacy
+import subprocess
+import sys
+
+try:
+    # Try loading the model
+    nlp = spacy.load("en_core_web_sm")
+except OSError:
+    # If the model is not found, install it
+    print("Downloading 'en_core_web_sm' model...")
+    subprocess.check_call([sys.executable, "-m", "spacy", "download", "en_core_web_sm"])
+    # Load the model after installation
+    nlp = spacy.load("en_core_web_sm")
 
 # Function to read PDF file using pdfplumber
 def read_pdf_with_pdfplumber(file):
