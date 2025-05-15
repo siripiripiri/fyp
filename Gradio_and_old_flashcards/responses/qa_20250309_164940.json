@@ -1,0 +1,40 @@
+{
+    "questions": [
+        {
+            "question": "Where do Mr. and Mrs. Dursley live?",
+            "answer": "Mr. and Mrs. Dursley live at number four, Privet Drive."
+        },
+        {
+            "question": "What is Mr. Dursley's occupation?",
+            "answer": "Mr. Dursley is the director of a firm called Grunnings, which makes drills."
+        },
+        {
+            "question": "Who is Mrs. Dursley's sister?",
+            "answer": "Mrs. Dursley's sister is Mrs. Potter."
+        },
+        {
+            "question": "Why are the Dursleys afraid of the Potters being discovered?",
+            "answer": "The Dursleys fear that someone will find out about the Potters, as they are related to them and do not want to be associated with them."
+        },
+        {
+            "question": "What unusual sight does Mr. Dursley see on his way to work?",
+            "answer": "Mr. Dursley sees people in cloaks and a cat reading a map."
+        },
+        {
+            "question": "What strange behavior do the nation's owls exhibit in the story?",
+            "answer": "The nation's owls are seen flying in daylight instead of at night."
+        },
+        {
+            "question": "What news about the Potters catches Mr. Dursley's attention?",
+            "answer": "Mr. Dursley overhears a group of people discussing the Potters, specifically their son Harry."
+        },
+        {
+            "question": "How does Mr. Dursley react to the news about the Potters?",
+            "answer": "Mr. Dursley becomes fearful and worried, questioning if the events unfolding have anything to do with the Potters."
+        },
+        {
+            "question": "What is Mr. Dursley's final comforting thought before falling asleep?",
+            "answer": "Mr. Dursley's final comforting thought is that even if the Potters are involved, there is no reason for them to come near him and Mrs. Dursley."
+        }
+    ]
+}

@@ -1,0 +1,60 @@
+{
+  "questions": [
+    {
+      "question": "What is the title?",
+      "answer": "ZAPDOS"
+    },
+    {
+      "question": "Who is Upadhyay?",
+      "answer": "Author"
+    },
+    {
+      "question": "Where is the college?",
+      "answer": "Mumbai"
+    },
+    {
+      "question": "What is AI?",
+      "answer": "Artificial"
+    },
+    {
+      "question": "What is the term for short summaries?",
+      "answer": "Abstract"
+    },
+    {
+      "question": "What reduces token usage?",
+      "answer": "Method"
+    },
+    {
+      "question": "What enhances procurement?",
+      "answer": "Approach"
+    },
+    {
+      "question": "What supports summarization?",
+      "answer": "TextRank"
+    },
+    {
+      "question": "What is LSA?",
+      "answer": "Summarization"
+    },
+    {
+      "question": "What is reduced by 45%?",
+      "answer": "Tokens"
+    },
+    {
+      "question": "What is cut by ZAPDOS?",
+      "answer": "Tokens"
+    },
+    {
+      "question": "What benchmark is mentioned?",
+      "answer": "FairytaleQA"
+    },
+    {
+      "question": "What score is 0.93?",
+      "answer": "ROUGE"
+    },
+    {
+      "question": "What term is for compression?",
+      "answer": "Index"
+    }
+  ]
+}

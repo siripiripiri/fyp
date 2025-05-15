@@ -1,0 +1,36 @@
+{
+  "questions": [
+    {
+      "question": "What is x0?",
+      "answer": "None"
+    },
+    {
+      "question": "What is w0?",
+      "answer": "None"
+    },
+    {
+      "question": "What is the role of the sigma (Σ) symbol?",
+      "answer": "None"
+    },
+    {
+      "question": "What is the function of the circle labeled 'Network input function'?",
+      "answer": "None"
+    },
+    {
+      "question": "What is the purpose of the Activation function?",
+      "answer": "None"
+    },
+    {
+      "question": "What does the arrow labeled 'Output' represent?",
+      "answer": "None"
+    },
+    {
+      "question": "What does the label 'Input' signify?",
+      "answer": "None"
+    },
+    {
+      "question": "What does the label 'Weight' signify?",
+      "answer": "None"
+    }
+  ]
+}

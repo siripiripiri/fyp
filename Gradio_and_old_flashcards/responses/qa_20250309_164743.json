@@ -1,0 +1,24 @@
+{
+    "questions": [
+        {
+            "question": "Who are Mr. and Mrs. Dursley?",
+            "answer": "Mr. and Mrs. Dursley are a couple living at number four, Privet Drive, who consider themselves to be perfectly normal and have a young son named Dudley."
+        },
+        {
+            "question": "What is Mr. Dursley's occupation?",
+            "answer": "Mr. Dursley is the director of a firm called Grunnings, which manufactures drills."
+        },
+        {
+            "question": "What strange things start happening in the story?",
+            "answer": "Strange things start happening when Mr. Dursley notices people in cloaks, owls flying in daylight, and shooting stars all over Britain."
+        },
+        {
+            "question": "Why is Mr. Dursley worried about the Potters?",
+            "answer": "Mr. Dursley is worried about the Potters because there have been whisperings about them in connection to the unusual events happening."
+        },
+        {
+            "question": "What is Mrs. Dursley's opinion of her sister?",
+            "answer": "Mrs. Dursley pretends she doesn't have a sister because her sister and her husband are considered unDursleyish and she doesn't want her neighbors to know about them."
+        }
+    ]
+}

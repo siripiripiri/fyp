@@ -1,0 +1,34 @@
+{
+    "questions": [
+        {
+            "question": "According to the theory of relativity, what is gravity a result of?",
+            "options": [
+                "A) Curved spacetime",
+                "B) Magnetism",
+                "C) Electromagnetic forces",
+                "D) Kinetic energy"
+            ],
+            "answer": "A) Curved spacetime"
+        },
+        {
+            "question": "What can distort spacetime so much that even light cannot escape?",
+            "options": [
+                "A) Stars",
+                "B) Planets",
+                "C) Massive objects like black holes",
+                "D) Galaxies"
+            ],
+            "answer": "C) Massive objects like black holes"
+        },
+        {
+            "question": "How does Einstein's theory of relativity differ from Newton's theory of gravity in explaining the orbit of Mercury around the Sun?",
+            "options": [
+                "A) Newton's theory could not explain the orbit, but Einstein's theory successfully did",
+                "B) Einstein's theory could not explain the orbit, but Newton's theory successfully did",
+                "C) Both theories explained the orbit in the same way",
+                "D) Neither theory could explain the orbit"
+            ],
+            "answer": "A) Newton's theory could not explain the orbit, but Einstein's theory successfully did"
+        }
+    ]
+}

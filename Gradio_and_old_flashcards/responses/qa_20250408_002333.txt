@@ -1,0 +1,44 @@
+{
+  "questions": [
+    {
+      "question": "Type?",
+      "answer": "LSTM"
+    },
+    {
+      "question": "Function?",
+      "answer": "Sigma"
+    },
+    {
+      "question": "Activation?",
+      "answer": "Tanh"
+    },
+    {
+      "question": "Gate?",
+      "answer": "Forget"
+    },
+    {
+      "question": "Memory?",
+      "answer": "Cell"
+    },
+    {
+      "question": "Equation?",
+      "answer": "Input"
+    },
+    {
+      "question": "Weight?",
+      "answer": "W"
+    },
+    {
+      "question": "Matrix?",
+      "answer": "U"
+    },
+    {
+      "question": "Cell?",
+      "answer": "Ct"
+    },
+    {
+      "question": "Output?",
+      "answer": "ht"
+    }
+  ]
+}

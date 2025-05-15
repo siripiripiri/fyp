@@ -1,0 +1,24 @@
+{
+    "Questions": [
+        {
+            "Question": "What does ZAPDOS stand for?",
+            "Answer": "Zero-shot AI-Powered and Dynamic Optimized Summarization"
+        },
+        {
+            "Question": "Where is the Department of Artificial Intelligence and Data Science located?",
+            "Answer": "Dwarkadas J. Sanghvi College of Engineering, Mumbai, India"
+        },
+        {
+            "Question": "What is the email address provided for correspondence?",
+            "Answer": "srijansupadhyay@gmail.com"
+        },
+        {
+            "Question": "What are the domain terms mentioned in the abstract?",
+            "Answer": "AQG, Question Generation, Flashcard Generation, Text Compression, Token Reduction, Extractive Summarization, Text Summarization."
+        },
+        {
+            "Question": "What does ROUGE stand for?",
+            "Answer": "Recall-Oriented Understudy for Gisting Evaluation"
+        }
+    ]
+}

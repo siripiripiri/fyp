@@ -1,0 +1,20 @@
+{
+    "questions": [
+        {
+            "question": "According to the theory, space and time are ____________ connected.",
+            "answer": "interconnected"
+        },
+        {
+            "question": "Gravity is a result of curved ____________.",
+            "answer": "spacetime"
+        },
+        {
+            "question": "Massive objects like black holes can distort spacetime so much that even ____________ cannot escape.",
+            "answer": "light"
+        },
+        {
+            "question": "Einstein's theory successfully explained the peculiar orbit of ____________ around the Sun.",
+            "answer": "Mercury"
+        }
+    ]
+}

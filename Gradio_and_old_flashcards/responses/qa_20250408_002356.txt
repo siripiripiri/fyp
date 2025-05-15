@@ -1,0 +1,44 @@
+{
+  "questions": [
+    {
+      "question": "What does the LSTM cell diagram represent?",
+      "answer": "The LSTM cell diagram represents the structure and flow of information within a single Long Short-Term Memory cell, used in neural networks for sequential data processing."
+    },
+    {
+      "question": "What do the symbols σ and tanh represent in the LSTM equations?",
+      "answer": "The symbol σ represents the sigmoid activation function and tanh represents the hyperbolic tangent activation function."
+    },
+    {
+      "question": "What is the purpose of the forget gate in an LSTM cell?",
+      "answer": "The forget gate (ft) determines which information from the previous cell state (ct-1) should be kept or discarded."
+    },
+    {
+      "question": "What does the input gate control in an LSTM cell?",
+      "answer": "The input gate (it) controls the extent to which new information is added to the cell state."
+    },
+    {
+      "question": "How is the output gate represented in the equations?",
+      "answer": "The output gate is represented by the equation ot = σ(xtU^o + ht-1W^o)."
+    },
+    {
+      "question": "What equation represents the updated cell state in an LSTM?",
+      "answer": "The updated cell state is represented by Ct = σ(ft * Ct-1 + it * C̃t)."
+    },
+    {
+      "question": "What is the final output equation of the LSTM cell?",
+      "answer": "The final output equation is ht = tanh(Ct) * ot."
+    },
+    {
+      "question": "How is the candidate cell state represented in the LSTM equations?",
+      "answer": "The candidate cell state is represented by C̃t = tanh(xtU^g + ht-1W^g)."
+    },
+    {
+      "question": "What does xt typically represent in the context of LSTM cells?",
+      "answer": "xt typically represents the input data at time t."
+    },
+    {
+      "question": "How do the weights U and W function within the LSTM equations?",
+      "answer": "The weights U and W are learnable parameters that define the influence of inputs and previous hidden states in gate calculations."
+    }
+  ]
+}

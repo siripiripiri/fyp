@@ -1,0 +1,44 @@
+{
+    "questions": [
+        {
+            "question": "According to the theory of relativity, what is the relationship between space and time?",
+            "options": [
+                "They are independent of each other",
+                "They are interconnected",
+                "They are perpendicular to each other",
+                "They are parallel to each other"
+            ],
+            "answer": "They are interconnected"
+        },
+        {
+            "question": "What does the theory of relativity propose gravity is a result of?",
+            "options": [
+                "Curved spacetime",
+                "Massive objects",
+                "Black holes",
+                "Light"
+            ],
+            "answer": "Curved spacetime"
+        },
+        {
+            "question": "According to the theory of relativity, what can distort spacetime so much that even light cannot escape?",
+            "options": [
+                "Planets",
+                "Asteroids",
+                "Black holes",
+                "Stars"
+            ],
+            "answer": "Black holes"
+        },
+        {
+            "question": "How does Einstein's theory of relativity differ from Newton's theory of gravity?",
+            "options": [
+                "Newton's theory explains black holes",
+                "Newton's theory explains the orbit of Mercury",
+                "Einstein's theory is based on light",
+                "Einstein's theory successfully explains the peculiar orbit of Mercury around the Sun"
+            ],
+            "answer": "Einstein's theory successfully explains the peculiar orbit of Mercury around the Sun"
+        }
+    ]
+}

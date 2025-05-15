@@ -1,0 +1,34 @@
+{
+    "questions": [
+        {
+            "question": "According to the theory of relativity, what is gravity a result of?",
+            "options": [
+                "Curved spacetime",
+                "Massive objects",
+                "Interconnected space and time",
+                "Light distortion"
+            ],
+            "answer": "Curved spacetime"
+        },
+        {
+            "question": "What can distort spacetime so much that even light cannot escape?",
+            "options": [
+                "Black holes",
+                "Neutron stars",
+                "Galaxies",
+                "Planets"
+            ],
+            "answer": "Black holes"
+        },
+        {
+            "question": "What was peculiar about Mercury's orbit around the Sun that Einstein's theory of relativity successfully explained?",
+            "options": [
+                "Retrograde motion",
+                "Elliptical orbit",
+                "Inconsistent speed",
+                "Precession"
+            ],
+            "answer": "Precession"
+        }
+    ]
+}

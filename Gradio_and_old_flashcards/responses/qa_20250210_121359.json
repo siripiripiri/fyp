@@ -1,0 +1,18 @@
+{
+    "questions": [
+        "What does the theory explain about space and time?",
+        "How does the theory explain gravity?",
+        "What can distort spacetime according to the theory?",
+        "What is one of the key predictions of the theory about massive objects?",
+        "How does Einstein's theory of gravity differ from Newton's?",
+        "What phenomenon did Einstein's theory successfully explain that Newton's didn't?"
+    ],
+    "answers": [
+        "Space and time are interconnected according to the theory.",
+        "Gravity is a result of curved spacetime in the theory.",
+        "Massive objects like black holes can distort spacetime according to the theory.",
+        "The theory predicts that even light cannot escape from massively distorted spacetime.",
+        "Einstein's theory includes the concept of curved spacetime while Newton's does not.",
+        "Einstein's theory successfully explained the peculiar orbit of Mercury around the Sun."
+    ]
+}
