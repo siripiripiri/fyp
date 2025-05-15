@@ -1,0 +1,423 @@
+/* src/App.css */
+
+.App {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  min-height: 80vh;
+  padding: 20px 0;
+}
+
+.App header {
+  margin-bottom: 40px;
+}
+
+.App header h1 {
+  font-size: 2.8rem;
+  color: #4a5a70;
+  font-weight: 700;
+  margin-bottom: 8px;
+}
+
+.App header p {
+  color: #6b7b90;
+  font-size: 1.1rem;
+}
+
+/* FileUpload Styles */
+.file-upload-container {
+  width: 100%;
+  max-width: 550px;
+  padding: 40px;
+  margin-bottom: 30px;
+  border: 3px dashed #bdc7d3;
+  border-radius: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  transition: background-color 0.2s ease, border-color 0.2s ease;
+  min-height: 200px;
+  transition: 0.4s ease;
+
+  
+}
+
+.file-upload-container:hover{
+  transition: 0.4s ease;
+  box-shadow: -4px -4px 24px #e2eeff, 4px 4px 24px #81a7e1 !important;
+}
+
+.file-upload-container.drag-over {
+  background-color: #d1d9e6;
+  border-color: #a3b1c6;
+}
+
+.file-upload-container p {
+  margin: 10px 0;
+  font-size: 1.1rem;
+  color: #555;
+}
+
+.file-upload-container input[type="file"] {
+  display: none;
+}
+
+.file-upload-container .upload-icon {
+  font-size: 3.5rem;
+  color: #888;
+  margin-bottom: 15px;
+}
+
+.file-upload-container.loading {
+  cursor: default;
+  border-style: solid;
+}
+
+/* QuestionTypeSelector Styles */
+.question-type-selector {
+  width: 100%;
+  max-width: 550px;
+  margin-bottom: 25px;
+}
+.question-type-selector h3 {
+  margin-top: 0;
+  margin-bottom: 20px;
+  color: #4a5a70;
+  font-weight: 600;
+}
+.question-type-selector div { 
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px;
+  justify-content: center;
+}
+.question-type-selector .neumorphism-button {
+  flex-grow: 1;
+  min-width: 160px;
+  padding: 10px 15px;
+  font-size: 0.95rem;
+}
+
+/* Error Message Styling */
+.error-message-container {
+  padding: 30px;
+  color: var(--red-incorrect-strong);
+  background-color: var(--primary-bg); 
+  border-radius: 15px;
+  box-shadow: var(--neumorphism-shadow-light), var(--neumorphism-shadow-dark);
+  max-width: 550px;
+  width: 90%;
+  margin: 20px auto;
+}
+.error-message-container p {
+  margin-bottom: 10px;
+}
+.error-message-container button {
+  margin-top: 15px;
+}
+
+
+/* FlashcardStack Styles */
+.flashcard-stack-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-bottom: 20px;
+
+}
+
+.flashcard-stack-container {
+  position: relative;
+  width: 50rem;
+  height: 350px;
+  margin: 20px auto;
+  perspective: 1000px;
+}
+
+.flashcard-stack-empty {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100%;
+  text-align: center;
+  min-height: 200px; 
+}
+
+.flashcard-stack-empty h2 {
+  font-size: 1.8rem;
+  margin-bottom: 20px;
+  color: #555;
+}
+
+.repetition-counter {
+  position: absolute;
+  top: -40px;
+  left: 50%;
+  transform: translateX(-50%);
+  font-size: 1rem;
+  font-weight: bold;
+  color: #777;
+  padding: 8px 12px;
+  background-color: var(--primary-bg);
+  border-radius: 8px;
+  box-shadow: var(--neumorphism-shadow-light), var(--neumorphism-shadow-dark);
+  z-index: 20;
+}
+
+.flashcard-progress-counter {
+  margin-top: 15px;
+  font-size: 1.1rem;
+  font-weight: 600;
+  color: #5c67f2;
+  padding: 8px 15px;
+  background-color: var(--primary-bg);
+  border-radius: 10px;
+  box-shadow: var(--neumorphism-shadow-light), var(--neumorphism-shadow-dark);
+}
+
+/* Flashcard Styles */
+.flashcard-wrapper {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  transform-origin: center;
+  will-change: transform, opacity;
+}
+
+.flashcard {
+  width: 100%;
+  height: 100%;
+  position: relative;
+  transform-style: preserve-3d;
+  transition: transform 0.8s cubic-bezier(0.25, 0.8, 0.25, 1);
+  border-radius: 20px;
+  box-shadow: var(--neumorphism-shadow-light), var(--neumorphism-shadow-dark);
+  background-color: var(--primary-bg);
+}
+
+.flashcard.is-flipped {
+  transform: rotateY(180deg);
+}
+
+.flashcard-face {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  backface-visibility: hidden;
+  -webkit-backface-visibility: hidden;
+  border-radius: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between; 
+  align-items: center;
+  padding: 25px;
+  box-sizing: border-box;
+  text-align: center;
+  overflow-y: auto;
+}
+
+.flashcard-front {
+  /* background-color: var(--primary-bg); default from .flashcard */
+  color: var(--text-color);
+}
+
+.flashcard-back {
+  /* background-color: var(--primary-bg); default from .flashcard */
+  color: var(--text-color);
+  transform: rotateY(180deg);
+}
+
+.flashcard-back.correct {
+  background-color: var(--green-correct);
+}
+
+.flashcard-back.incorrect {
+  background-color: var(--red-incorrect);
+}
+
+.flashcard-content {
+  font-size: 1.2rem;
+  line-height: 1.6;
+  max-height: 60%; 
+  overflow-y: auto;
+  margin-bottom: 15px;
+  width: 100%; 
+}
+
+/* Styles for different interaction areas */
+.mcq-options-container,
+.true-false-options-container,
+.fib-container,
+.flashcard .answer-section{
+  margin-top: auto;
+  padding-top: 10px;
+  width: 95%;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.mcq-options-container .mcq-option,
+.true-false-options-container .tf-option {
+  width: 100%; 
+  padding: 10px;
+  font-size: 0.95rem;
+  text-align: left; 
+}
+.mcq-options-container .mcq-option.selected,
+.true-false-options-container .tf-option.selected {
+  color: rgb(255, 255, 255);
+    background-color: var(--button-selected-bg); /* Use variable from index.css */
+    box-shadow: var(--neumorphism-shadow-inset-light), var(--neumorphism-shadow-inset-dark);
+}
+
+.mcq-options-container .submit-mcq-tf { 
+    margin-top: 10px;
+    width: auto; 
+    align-self: center; 
+}
+
+/* True/False can have buttons side-by-side if desired */
+.true-false-options-container {
+    flex-direction: row;
+    justify-content: center; 
+    gap: 15px;
+}
+.true-false-options-container .tf-option {
+    flex-grow: 1; 
+    text-align: center;
+}
+
+
+.fib-question-display {
+  font-size: 1.2rem;
+  line-height: 1.8; 
+  width: 100%;
+}
+.fib-input {
+  padding: 4px 8px;
+  font-size: 1.1rem; 
+  border: none;
+  border-radius: 6px;
+  background-color: var(--primary-bg);
+  color: var(--text-color);
+  box-shadow: var(--neumorphism-shadow-inset-light), var(--neumorphism-shadow-inset-dark);
+  margin: 0 4px; 
+  text-align: center;
+  min-width: 60px; 
+}
+
+
+.flashcard .feedback-section {
+  margin-top: 15px;
+  width: 100%;
+}
+
+.flashcard .navigation-controls {
+  margin-top: 15px;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+
+/* AnswerInput Styles (within .flashcard .answer-section) */
+.answer-input-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 15px;
+  width: 100%;
+}
+
+.answer-input-container textarea {
+  width: calc(100% - 36px);
+  min-height: 60px;
+  resize: vertical;
+}
+
+/* ResultMessage Styles */
+.result-message {
+  margin: 10px 0;
+  font-size: 1.2rem;
+  font-weight: bold;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.result-message.correct {
+  color: var(--green-correct-strong);
+}
+
+.result-message.incorrect {
+  color: var(--red-incorrect-strong);
+}
+
+.result-message svg {
+  margin-left: 8px;
+  font-size: 1.5rem;
+}
+
+/* FeedbackButtons Styles */
+.feedback-buttons-container {
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  gap: 10px;
+  margin-top: 10px;
+}
+
+.feedback-buttons-container .neumorphism-button {
+  padding: 8px 12px;
+  font-size: 0.9rem;
+  flex-grow: 1;
+  min-width: 80px;
+}
+
+.feedback-buttons-container .neumorphism-button.selected {
+  box-shadow: var(--neumorphism-shadow-inset-light), var(--neumorphism-shadow-inset-dark);
+  background-color: var(--button-selected-bg);
+}
+
+
+
+.loading-gif-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 40px 20px; /* Add some padding */
+  min-height: 300px; /* Ensure it has some space */
+  text-align: center;
+  /* neumorphism-card class is already applied for the shadow and background */
+}
+
+.loading-gif {
+  width: 150px; /* Adjust size as needed */
+  height: auto; /* Maintain aspect ratio */
+  margin-bottom: 20px;
+}
+
+.loading-gif-container p {
+  font-size: 1.2rem; /* Make text a bit larger */
+  color: #555;
+  font-weight: 600;
+}
+
+.loading-gif-container .loading-subtext {
+  font-size: 0.9rem;
+  color: #777;
+  margin-top: 8px;
+  font-weight: normal;
+}
+
+.flashcard-source-page {
+  font-size: 0.8em;
+  color: #555;
+  margin-top: 10px;
+  font-style: italic;
+}
